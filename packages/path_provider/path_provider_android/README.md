@@ -1,11 +1,15 @@
-# path\_provider\_android
+# path_provider_android
 
-The Android implementation of [`path_provider`][1].
+A new flutter plugin project.
 
-## Usage
+## Getting Started
 
-This package is [endorsed][2], which means you can simply use `path_provider`
-normally. This package will be automatically included in your app when you do.
+This project is a starting point for a Flutter
+[plug-in package](https://flutter.dev/developing-packages/),
+a specialized package that includes platform-specific implementation code for
+Android and/or iOS.
 
-[1]: https://pub.dev/packages/path_provider
-[2]: https://flutter.dev/docs/development/packages-and-plugins/developing-packages#endorsed-federated-plugin
+For help getting started with Flutter, view our
+[online documentation](https://flutter.dev/docs), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
+
